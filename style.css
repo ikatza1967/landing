@@ -30,7 +30,11 @@ div{
     background-color: rgb(250, 245, 245);
     color: black;
     display:block;
+    text-align: center;
     
+}
+form{
+    text-align: left;
 }
 .name{
     background-color: white;
