@@ -16,15 +16,22 @@ div{
 }
 .portfolio{
     background-color: white;
+    color: black;
+    
+
+
+
+
+
 
 }
 .about{
-    text-align:center;
-    f: ;
+    text-align:left;
+    display: block;
     
 }
 .left{
-    text-align: left;
+    text-align: center;
 }
 .contact {
     background-color: rgb(250, 245, 245);
@@ -34,9 +41,23 @@ div{
     
 }
 form{
-    text-align: left;
+    text-align: center;
 }
 .name{
     background-color: white;
 }
+
+footer{
+    
+    background-color: #2C3E50;
+    color: white;
+    display:flex;
+    text-align: center;
+    padding-left: 3rem;
+    padding-right: 4rem;
+    justify-content: space-evenly;
+}
+
+
+
 
